@@ -596,4 +596,5 @@ end)
 
 -- Start
 loadConfig()
+
 addBubble("'Sup " .. player.Name .. ", where do we start with? ", false)
